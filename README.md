@@ -1,4 +1,4 @@
 # SimpleCalculator
 A calculator with basic functions.
 
-Credit: Scott Murray
+Skeleton credit: Scott Murray
